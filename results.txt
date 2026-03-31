@@ -1,0 +1,5 @@
+Total Accesses: 10
+Hits: 3
+Misses: 7
+Hit Rate: 0.3
+Miss Rate: 0.7
